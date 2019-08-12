@@ -9,3 +9,7 @@ This was edited locally
 
 The purpose of this file is to provide the examples
 on how to use Git and GotHub together.
+
+## Getting started
+
+To get started with this project, just 'clone' this repository.
